@@ -1,4 +1,4 @@
-### Hi there, I'm Aslbek 👋
+### Hi there, I'm Aslbek Kucharov👋
 
 ## I'm a Studnet and Developer!!
 
