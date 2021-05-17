@@ -1,6 +1,6 @@
 ### Hi there, I'm Aslbek Kucharov👋
 
-## I'm a Studnet and Frontend Developer!!
+## I'm a student and frontend developer!!
 
 - 🌱 I want to be a Fullstack developer.
 - 🥅 2021 Goals: Contribute more to Open Source projects
